@@ -10,3 +10,6 @@ game_events.jsonl
 
 # Virtual environments
 .venv
+
+# Generated source package
+asteroids-full-source.md
